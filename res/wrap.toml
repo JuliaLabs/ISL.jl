@@ -1,0 +1,8 @@
+[general]
+library_name = "libisl"
+output_file_path = "../src/api.jl"
+module_name = "API"
+prologue_file_path = "./prologue.jl"
+
+[codegen.macro]
+macro_mode = "basic"

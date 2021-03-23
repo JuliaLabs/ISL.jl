@@ -1,0 +1,8 @@
+name = "ISL"
+uuid = "4d9053e4-97a6-4476-8996-fca684647641"
+authors = ["Valentin Churavy <v.churavy@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CEnum = "fa961155-64e5-5f13-b03f-caf6b980ea82"
+ISL_jll = "9a84b867-ccd3-531b-bb38-095e36150902"
